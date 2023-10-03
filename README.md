@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+I've been iOS developer since 2021.
+
+- 🌱 I’m currently learning Swift and Flutter
+- 🔭 I’m currently working on my main app Secure Store and small apps with Flutter.
+- Here also my some projects for Linux (based on Java) and projects for DIY Smart Home (C for AVR controller)
+
 
 <!--
 **ProstoMC/ProstoMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
