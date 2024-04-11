@@ -1,7 +1,8 @@
 Hi there 👋
 I've been iOS developer since 2021.
 ---------------------------------------
-Main languages:
+ 
+### Main languages: ###
 
 ![Swift](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/swift.png) Swift
 ![Flutter](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/flutter.png) Flutter
@@ -11,6 +12,8 @@ Main languages:
 
 #### Secure store ####
 [![Secure Store](https://raw.githubusercontent.com/ProstoMC/SecureStore/main/SecureStore/Assets.xcassets/AppIcon.appiconset/80-1.png)](https://github.com/ProstoMC/SecureStore) 
+
+
 
 Here also my some projects for Linux (based on Java) and projects for DIY Smart Home (C for AVR controller)
 
