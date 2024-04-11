@@ -14,7 +14,7 @@ Flutter
 <a href="https://github.com/ProstoMC/Widget-Money">  
 Widget Money  
 </a>   
-<a href="https://github.com/ProstoMC/Widget-Money">
+<a href="https://github.com/ProstoMC/Widget-Money">  
 <img src="https://github.com/ProstoMC/Widget-Money/blob/main/Widget%20Money/Assets.xcassets/LaunchImage.imageset/LaunchImage.png?raw=true" width="100" >  
 </a>  
 
