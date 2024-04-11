@@ -7,9 +7,9 @@ Main languages:
 ![Flutter](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/flutter.png) Flutter
 
 ---------------------------------------
-Main Project:
+### Main Projects: ###
 
-Secure store </>
+Secure store  
 [![Secure Store](https://raw.githubusercontent.com/ProstoMC/SecureStore/main/SecureStore/Assets.xcassets/AppIcon.appiconset/80-1.png)](https://github.com/ProstoMC/SecureStore) 
 
 Here also my some projects for Linux (based on Java) and projects for DIY Smart Home (C for AVR controller)
