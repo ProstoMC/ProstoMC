@@ -13,7 +13,7 @@ Flutter
 
 #### Widget Money ####
 <a href="https://github.com/ProstoMC/Widget-Money">
-<img src="https://github.com/ProstoMC/Widget-Money/blob/main/Widget%20Money/Assets.xcassets/LaunchImage.imageset/LaunchImage.png?raw=true" width="200" >  
+<img src="https://github.com/ProstoMC/Widget-Money/blob/main/Widget%20Money/Assets.xcassets/LaunchImage.imageset/LaunchImage.png?raw=true" width="100" >  
 </a>  
 
 #### Secure store ####
