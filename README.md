@@ -3,9 +3,10 @@ I've been iOS developer since 2021.
 ---------------------------------------
  
 ### Main languages: ###
-
-![Swift](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/swift.png) Swift
-![Flutter](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/flutter.png) Flutter
+Swift  
+![Swift](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/swift.png) 
+Flutter  
+![Flutter](https://raw.githubusercontent.com/ProstoMC/ProstoMC/main/source/flutter.png) 
 
 ---------------------------------------
 ### Main Projects: ###
