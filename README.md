@@ -11,6 +11,9 @@ Flutter
 ---------------------------------------
 ### Main Projects: ###
 
+#### Widget Money ####
+[![Widget Money](https://github.com/ProstoMC/Widget-Money/blob/main/Widget%20Money/Assets.xcassets/LaunchImage.imageset/LaunchImage.png?raw=true)](https://github.com/ProstoMC/Widget-Money)  
+
 #### Secure store ####
 [![Secure Store](https://raw.githubusercontent.com/ProstoMC/SecureStore/main/SecureStore/Assets.xcassets/AppIcon.appiconset/80-1.png)](https://github.com/ProstoMC/SecureStore) 
 
